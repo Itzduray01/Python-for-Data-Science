@@ -1,11 +1,11 @@
-Name,Age,Department,CGPA,Admission_Date,Gender,Year,Month,day
-Sola,23,Agric. sci,2.3,2013-12-03,Male,2013,12,3
-Bimbo,28,Political sci,4.5,2020-11-05,Female,2020,11,5
-Abbey,29,Law,3.4,2012-09-06,Male,2012,9,6
-Adura,32,Botany,2.2,2021-10-12,Male,2021,10,12
-Solomon,18,Music,4.5,2017-11-03,Male,2017,11,3
-Aanu,21,Accounting,3.1,2012-11-01,Female,2012,11,1
-Blessing,27,Dramatic Art,4.0,2010-06-03,Female,2010,6,3
-Peace,30,Religion studies,3.6,2015-11-02,Male,2015,11,2
-Success,24,Microbiology,4.3,2014-04-07,Male,2014,4,7
-Bolanle,22,Geology,4.4,2019-03-01,Female,2019,3,1
+Name,Age,Department,CGPA,Admission_Date,Gender
+Sola,23,Agric. sci,2.3,2013-12-03,Male
+Bimbo,28,Political sci,4.5,2020-11-05,Female
+Abbey,29,Law,3.4,2012-09-06,Male
+Adura,32,Botany,2.2,2021-10-12,Male
+Solomon,18,Music,4.5,2017-11-03,Male
+Aanu,21,Accounting,3.1,2012-11-01,Female
+Blessing,27,Dramatic Art,4.0,2010-06-03,Female
+Peace,30,Religion studies,3.6,2015-11-02,Male
+Success,24,Microbiology,4.3,2014-04-07,Male
+Bolanle,22,Geology,4.4,2019-03-01,Female
